@@ -1,10 +1,10 @@
-# Stats 220 Project 1
+# Stats 220 
 
 ## The purpose of the repo
 
 This repository is to serve as a central location for the project related to **Stats 220** course.
 
-## The meaning of this project
+## The meaning of project 1
 
 * Draws on lecture and lab content from *Module 1*
 
