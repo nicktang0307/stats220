@@ -1,1 +1,1 @@
-# stats220
+# The short introduction
