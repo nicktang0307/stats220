@@ -4,7 +4,7 @@
 
 This repository is to serve as a central location for the project related to **Stats 220** course.
 
-## The meaning of project 1
+## The meaning of project :one:
 
 * Draws on lecture and lab content from *Module 1*
 
