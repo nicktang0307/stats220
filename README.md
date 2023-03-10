@@ -16,6 +16,6 @@ This repository is to serve as a central location for the project related to **S
 4. Setting up Github Pages
 5. Writing the project report
 
-[Click here to see the outline of the course](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1233)
+[Click here to see my site](https://nicktang0307.github.io/stats220/)
 
 
