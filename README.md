@@ -8,7 +8,7 @@ This repository is to serve as a central location for the project related to **S
 
 * Draws on lecture and lab content from *Module 1*
 
-## What we will do in this project
+## What we will do in this project :books: :books:
 
 1. Meme creation
 2. Animated GIF creation
