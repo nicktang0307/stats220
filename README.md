@@ -2,7 +2,7 @@
 
 ## The purpose of the repo
 
-This repository is to serve as a central location for the project related to **Stats 220** course.
+This repository is the central location for projects related to **Stats 220** course.
 
 ## The meaning of project :one:
 
