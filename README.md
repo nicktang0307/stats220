@@ -16,7 +16,8 @@ This repository is the central location for projects related to **Stats 220** co
 4. Setting up Github Pages
 5. Writing the project report
 
-[Click here to see my site](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[Repo](https://github.com/nicktang0307/stats220)
+[Website](https://nicktang0307.github.io/stats220/)
 
 ![](https://media1.giphy.com/media/ukwPlCmJ5RmlqvQCpA/200w.gif?cid=82a1493b4s3fml61he1n7m9duux4unknmgc7cot5v9hp40c3&rid=200w.gif&ct=g)
 
