@@ -18,6 +18,6 @@ This repository is the central location for projects related to **Stats 220** co
 
 [Click here to see my site](https://nicktang0307.github.io/stats220/)
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mI-fnKantPV8RPSjfUI1oevsGUtqDh6ORg&usqp=CAU)
+![](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 
